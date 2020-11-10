@@ -14,11 +14,11 @@ The code can be found in [Urban Bieri's repository](https://github.com/schaum/so
 
 Here is a rendering of the PCB front, with components:
 
-<img src="images/solar_bird_3d_front_perspective" alt="pcb front" />
+<img src="images/solar_bird_3d_front_perspective.png" alt="pcb front" />
 
 A beautiful solar bird made by a student at Kollegi Schwyz in September 2020 (workshop with Felix Bänteli, using an older PCB version):
 
-<img src="images/solar_bird_schwyz_20200923_IMG_8406.jpg" alt="photo of solar bird" />
+<img src="images/solar_bird_schwyz_IMG_8406_20200923.jpg" alt="photo of solar bird" />
 
 ## PDFs
 

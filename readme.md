@@ -45,13 +45,13 @@ CC .. ..
 ## To dos
 
 * Arduino code as an alternative to main.c & makefile?
-* Provide guide for tweaking the code
-* Program via [audio bootloader]https://github.com/ATtinyTeenageRiot/TinyAudioBoot and corresponding hardware? (We likely need to switch to ATtiny45 or 85)
+* Provide a guide for tweaking the code
+* Program via [audio bootloader](https://github.com/ATtinyTeenageRiot/TinyAudioBoot) and corresponding hardware? (We likely need to switch to ATtiny45 or 85)
 * Add alternative footprints for SMD components?
 * Add labels in copper layer for DIY etched version
 * Plot PDF and Gerber files for production
-* Correct GitHub repo in label on silkscreen layer
-* Correct license
+* Correct GitHub link in label on silkscreen layer
+* Add license
 
 ## Research
 

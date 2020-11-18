@@ -1,4 +1,10 @@
 # OS
 .DS_Store
 
-# Previous versions
+# KiCad backup files
+kicad/solar_bird.sch-bak
+kicad/solar_bird_pcb-01.kicad_pcb-bak
+kicad/solar_bird_pcb_02.kicad_pcb-bak
+
+# Sketches
+layout
